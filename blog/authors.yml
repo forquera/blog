@@ -15,9 +15,21 @@ slorber:
   image_url: https://github.com/slorber.png
   page:
     # customize the url of the author page at /blog/authors/<permalink>
-    permalink: '/all-sebastien-lorber-articles'
+    permalink: "/all-sebastien-lorber-articles"
   socials:
     x: sebastienlorber
     linkedin: sebastienlorber
     github: slorber
     newsletter: https://thisweekinreact.com
+
+orquera:
+  name: Fernando Orquera
+  title: Desarrollador
+  url: https://forquera.github.io/
+  image_url: https://github.com/forquera/forquera.github.io/blob/master/yo.jpg?raw=true
+  page: true
+  socials:
+    x: ferorqueraok
+    linkedin: orquerafernando
+    github: forquera
+    instagram: fernando.exequiel.orquera
