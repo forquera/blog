@@ -61,6 +61,10 @@ const config = {
           blogSidebarTitle: "Post recientes",
           blogSidebarCount: 5,
         },
+        gtag: {
+          trackingID: "G-8JYLQC2460",
+          anonymizeIP: true,
+        },
         theme: {
           customCss: "./src/css/custom.css",
         },
