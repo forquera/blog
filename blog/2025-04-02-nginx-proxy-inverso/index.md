@@ -29,7 +29,7 @@ Nginx se instala en **/etc/nginx** y contiene una estructura de carpetas para po
 - **/etc/nginx/sites-available/**: se usa para almacenar archivos de configuración para diferentes servidores virtuales. Cada archivo representa un sitio distinto, pero no activa los sitios.
 - **/etc/nginx/sites-enabled/**: en esta carpeta hay enlaces simbólicos a los archivos de sites-available el cual indicaran a Nginx cual utilizar. Es una forma práctica de activar o desactivar sin tener que andar borrando los archivos de configuración.
 
-A todo esto, supongamos que ya tenemos un dominio miapp.dominio.com y que apunta al servidor donde tenemos alojado Nginx, el cual recibir la petición.
+A todo esto, supongamos que ya tenemos un dominio miapp.dominio.com y que apunta al servidor donde tenemos alojado Nginx, el cual va a recibir la petición.
 
 Por lo que primero vamos a crear un archivo de configuración dentro de sites-available:
 
