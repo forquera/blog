@@ -97,7 +97,7 @@ Implementar Scrumban junto con una matriz de priorización no fue solo un cambio
 - Trazabilidad: toda decisión sobre una tarea tiene un registro.
 - Más reuniones con propósito: aumentaron los espacios de trabajo compartido y los consensos sobre procesos.
 
-### Aprendisaje
+### Aprendizaje
 
 “No se trata de correr más rápido, sino de avanzar hacia donde realmente importa.”
 
