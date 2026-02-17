@@ -12,7 +12,7 @@ import { themes as prismThemes } from "prism-react-renderer";
 const config = {
   title: "Fernando Orquera",
   tagline: "Dinosaurs are cool",
-  favicon: "img/fer.ico",
+  favicon: "img/favicon.ico",
 
   // Set the production url of your site here
   url: "https://forquera.github.io",
